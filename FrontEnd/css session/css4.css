@@ -1,0 +1,75 @@
+/* .div{
+    width:200px;
+    height:200px;
+    background-color: black;
+    color: aliceblue;
+} */
+body{
+    margin: 0;
+    padding: 0;
+ }
+
+.blue{
+    background-color:blue;
+    float: left;
+    margin-right: 20px;
+    margin: 0 20px 0 30px ;
+} 
+.green{
+    background-color: green;
+    padding: 20px 0 0 20px;
+
+}
+.red{
+    background-color: red;
+}
+.size{
+    width:200px;
+    height: 200px;
+}
+.clr{
+    clear:both;
+}
+.parents{
+    width: 90%;
+    height: 400px;
+    margin: auto;
+    /* background-color: gray; */
+}
+.parent{
+    /* background-color: blue; */
+    width: 24%;
+    height: 100%;
+    float: left;
+    margin-left: 5px;
+    text-align: center;
+}
+.parent img{
+    width: 100%;
+    height: 200px;
+
+}
+.parent h3{
+    color: gray;
+
+}
+
+.parent a{
+    color: black;
+    text-decoration: none;
+}
+.parent a:hover{
+    color: blue;
+}
+.headerclass{
+    width: 100%;
+    height: 600px;
+    background-color: gray;
+    background-image: url(img/images\ \(1\).jfif);
+    background-size: cover;
+}
+.wall{
+    width: 100%;
+    height: 600px;
+    background-color: rgba(0, 0, 0,0.5);
+}

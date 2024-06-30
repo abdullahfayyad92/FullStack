@@ -1,0 +1,27 @@
+.error{
+    border:solid 1px red;
+}
+.hi{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    overflow: auto;
+    margin: auto;
+}
+.hie{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    left: 0%;
+}
+.soo{
+    width: 100%;
+    height: 400px;
+    background-color: brown;
+}
+.doo{
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+}
